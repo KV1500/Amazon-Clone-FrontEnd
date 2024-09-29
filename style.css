@@ -35,7 +35,7 @@
 /* Box 2*/
 
 .add-first{
-    colour: #cccc;
+    color: #cccc;
     font-size: 0.85rem;
     margin-left: 15px;
 }
@@ -186,4 +186,40 @@
 .box-content{
     margin-left: 1rem;
     margin-right: 1rem;
+}
+
+/*Footer*/
+
+footer{
+    margin-top: 16px;
+
+}
+.foot-panel{
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+}
+
+.foot-panel2{
+    background-color: #222f3d;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul{
+    margin-top: 20px;
+}
+
+ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color: #dddddd;
+
 }
